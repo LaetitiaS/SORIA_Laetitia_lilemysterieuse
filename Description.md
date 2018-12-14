@@ -8,7 +8,7 @@ Une fois l'oeuvre trouvé sur Wikisource, j'ai ensuite converti le document en t
 
 Cela m'a permi de pouvoir distinguer chaque partie et chaque chapitre. 
 
-Voici le lien de ce document :[LÎle-mystérieuse_Jules-Verne.txt)(https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/LI%CC%82le-myste%CC%81rieuse_Jules-Verne.txt)
+Voici le lien de ce document : [LÎle-mystérieuse_Jules-Verne.txt](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/LI%CC%82le-myste%CC%81rieuse_Jules-Verne.txt)
 
 ### Étape 2
 
@@ -17,6 +17,9 @@ Dans cette étape j'ai dût retrouver la version Epub de l'oeuvre choisi. Pour c
 Voici le lien de ce document : [Verne-L_Ile_mysterieuse (1) .epub](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/Verne-L_Ile_mysterieuse%20(1).epub)
 
 ### Étape 3 
+
+#### Visualisation de type nuages de mots-clés
+
 
 
 
