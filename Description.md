@@ -51,13 +51,18 @@ Pour obtenir le résulat ci dessous j'ai séléctionné dans le choix des variab
 
 ![afcf_col.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/afcf_col.png)
 
-Pour obtenir des couluers à ce graphqiues j'ai sélectionné la case "Taille du texte proportionelle à la fréquence".
+Pour obtenir des couleurs à ce graphques j'ai sélectionné la case "Taille du texte proportionelle à la fréquence".
 
 ![graph_afc_1.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_afc_1.png)
 
-<br/> Ensuite, j'ai voulu comparer les trois premiers chapitres de la partie 1,2 et 3. 
+<br/> Ensuite, j'ai voulu comparer les trois premiers chapitres et les trois 2à derniers de la partie 1,2 et 3. 
 
-Voici le rérsulats obtenu :
+Voici le rérsulats obtenu pour les chapitre 1 :
+![graph_afc_13.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_afc_13.png)
+
+Voici le rérsulats obtenu pour les chapitre 20 :
+![graph_afc_11.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_afc_11.png)
+
 
 
 
