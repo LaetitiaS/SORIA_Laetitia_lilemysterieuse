@@ -65,9 +65,29 @@ Voici le rérsulats obtenu pour les chapitres 20 :
 
 #### Analyse des similitudes
 
-Ici, j'ai réalisé l'analuse des similitudes. Pour cela j'ai compté dans un premier temps tut els effectif : 3580 avec un indice de coocurrence. 
+Ici, j'ai réalisé l'analyse des similitudes. Pour cela j'ai compté dans un premier temps tout les effectifs (paramètres par defauts) : 3580 avec un indice de coocurrence. 
 
-![graph_afc_11.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_afc_11.png)
+![graph_simi_1.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_simi_1.png)
+
+Pour obtenir un resulats plus précis, j'ai ensuite restreint à un effectif à 150 et j'ai coché la case Communauté.
+![graph_simi_15.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_simi_15.png)
+
+On peut aussi dans cette fonction, regrouper par Communauté et en Halo. Pour avoir quelque chose de plus intéréessant j'ai choisi de comparer encore une fois les chapitres 1 de la partie 1,2 et 3 ainsi que les chapitres 20 de la partie 1, 2 et 3. 
+
+![graph_simi_2.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_simi_2.png)
+
+![graph_simi_3.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_simi_3.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
