@@ -63,6 +63,8 @@ Voici le rérsulats obtenu pour les chapitres 1 :
 Voici le rérsulats obtenu pour les chapitres 20 :
 ![graph_afc_11.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_afc_11.png)
 
+Grâace aux couleurs, les mots qui sont plus utilisés sont mise en valeurs par leur taille. 
+
 #### Analyse des similitudes
 
 Ici, j'ai réalisé l'analyse des similitudes. Pour cela j'ai compté dans un premier temps tout les effectifs (paramètres par defauts) : 3580 avec un indice de coocurrence. 
@@ -77,6 +79,13 @@ On peut aussi dans cette fonction, regrouper par Communauté et en Halo. Pour av
 ![graph_simi_2.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_simi_2.png)
 
 ![graph_simi_3.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_simi_3.png)
+
+#### Nuage des mots 
+
+![nuage_1.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/nuage_1.png)
+
+Dans cette visualisation des mots-clefs en image, on constate dans un premier temps que les mots les plus fréquents dans ce livre sont les noms des personnages principaux : Pencroff, Harbert, Cyrus, Gédéon, Nab, Spilett. Puis dans un second temps on retrouve un autre ensemble de mots qui retrace l’univers du bouquin. 
+
 
 
 
