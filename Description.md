@@ -22,13 +22,28 @@ Voici le lien de ce document : [Verne-L_Ile_mysterieuse (1) .epub](https://githu
 
 Une fois le document chargé dans Iramituq, j'ai obtenu dans "Statistique", le resume, qui décrit l'éatt du corpus CSV. 
 
-Nombre de textes : 61 
-Nombre d'occurences : 210 618
-Nombre de formes : 7 659 
-Nombre d'hapax : 2 633 
-Moyenne d'occurences par texte : 3 452.75
+<br/> Nombre de textes : 61 
+<br/> Nombre d'occurences : 210 618
+<br/> Nombre de formes : 7 659 
+<br/> Nombre d'hapax : 2 633 
+<br/> Moyenne d'occurences par texte : 3 452.75
 
 ![zipf.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/zipf.png)
+
+Ici, on peut constater que Iramutuq a égalment crée des fichiers CSV. À savoir : 
+<br/> [total.csv] (https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/CSV/total.csv) 
+Il s'agit de toute les formes et leur effectif.
+
+<br/> [formes_actives.csv] (https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/CSV/formes_actives.csv)
+Il s'agit des formes actives et leur effectif.
+
+<br/> [formes_supplémentaires.csv] (https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/CSV/formes_suppl%C3%A9mentaires.csv) 
+
+<br/> hapax.csv 
+Il s'agit du nombre de mots le moins utilisés dans l'oeuvre. 
+
+
+
 
 
 
