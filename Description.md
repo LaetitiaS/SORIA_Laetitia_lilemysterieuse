@@ -42,6 +42,27 @@ Il s'agit des formes actives et leur effectif.
 <br/> hapax.csv 
 Il s'agit du nombre de mots le moins utilisés dans l'oeuvre. 
 
+#### Spécificité et AFC 
+
+Ici, il s'agit de produire une analyse factorielle des correspondances sur un tableau de contingence qui croise formes actives et les variables.
+
+Pour obtenir le résulat ci dessous j'ai séléctionné dans le choix des variables_formes utilisés, les variables actives et supplémentaires avec une fréquence à 60. 
+![afcf_row.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/afcf_row.png)
+
+![afcf_col.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/afcf_col.png)
+
+Pour obtenir des couluers à ce graphqiues j'ai sélectionné la case "Taille du texte proportionelle à la fréquence".
+
+![graph_afc_1.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_afc_1.png)
+
+<br/> Ensuite, j'ai voulu comparer les trois premiers chapitres de la partie 1,2 et 3. 
+
+Voici le rérsulats obtenu :
+
+
+
+
+
 
 
 
