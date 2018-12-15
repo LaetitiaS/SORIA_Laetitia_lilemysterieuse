@@ -12,7 +12,7 @@ Voici le lien de ce document : [LÎle-mystérieuse_Jules-Verne.txt](https://gith
 
 ### Étape 2
 
-Dans cette étape j'ai dût retrouver la version Epub de l'oeuvre choisi. Pour cela, je l'ai télécharger sur le site beq.ebooksgratuits.com. 
+Dans cette étape j'ai dût retrouver la version Epub de l'oeuvre choisi. Pour cela, je l'ai téléchargé sur le site beq.ebooksgratuits.com. 
 
 Voici le lien de ce document : [Verne-L_Ile_mysterieuse (1) .epub](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/Verne-L_Ile_mysterieuse%20(1).epub)
 
@@ -20,7 +20,7 @@ Voici le lien de ce document : [Verne-L_Ile_mysterieuse (1) .epub](https://githu
 
 #### Statistique
 
-Une fois le document chargé dans Iramituq, j'ai obtenu dans "Statistique", le resume, qui décrit l'éatt du corpus CSV. 
+Une fois le document chargé dans Iramituq, j'ai obtenu dans "Statistique", *le resume*, qui décrit l'état du corpus CSV. 
 
 <br/> Nombre de textes : 61 
 <br/> Nombre d'occurences : 210 618
@@ -60,7 +60,7 @@ Pour obtenir des couleurs à ce graphiques j'ai sélectionné la case "Taille du
 
 ![graph_afc_1.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_afc_1.png)
 
-<br/> Ensuite, j'ai voulu comparer les trois premiers chapitres et les trois 2à derniers de la partie 1,2 et 3. 
+<br/> Ensuite, j'ai voulu comparer les trois premiers chapitres et les trois derniers de la partie 1,2 et 3. 
 
 Voici le rérsulats obtenu pour les chapitres 1 :
 ![graph_afc_13.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_afc_13.png)
