@@ -95,7 +95,8 @@ Dans cette visualisation des mots-clefs en image, on constate dans un premier te
 ![nuage_1.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/nuage_1.png)
 
 ## Fichier en .md qui répond à la question
-
+![question.md](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/question.md
+)
 
 
 
