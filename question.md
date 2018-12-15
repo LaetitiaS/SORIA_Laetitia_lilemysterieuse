@@ -29,4 +29,4 @@ Le concept de digitalisation fait partie intégrante de notre quotidien et surto
 Références : 
 - [Les enjeux épistémologiques des humanités numériques - Alexandre Gefen](https://hal.archives-ouvertes.fr/hal-01624113/document) 
 - [Les humanités digitales précèdent-elle le numérique ? - Olivier Le Deuf](https://archivesic.ccsd.cnrs.fr/sic_01220978/document) 
-- 
+
