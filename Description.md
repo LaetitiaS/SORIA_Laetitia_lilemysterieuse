@@ -60,7 +60,7 @@ Pour obtenir le résulat ci dessous j'ai séléctionné dans le choix des variab
 
 Pour obtenir des couleurs à ce graphiques j'ai sélectionné la case "Taille du texte proportionelle à la fréquence".
 
-![graph_afc_1.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_afc_1.png)
+![](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_afc_1.png)
 
 <br/> Ensuite, j'ai voulu comparer les trois premiers chapitres et les trois derniers de la partie 1,2 et 3. 
 
