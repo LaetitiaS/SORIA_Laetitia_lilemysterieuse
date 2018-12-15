@@ -90,9 +90,10 @@ On peut aussi dans cette fonction, regrouper par Communauté et en Halo. Pour av
 
 #### Nuage des mots 
 
+Dans cette visualisation des mots-clefs en image, on constate dans un premier temps que les mots les plus fréquents dans ce livre sont les noms des personnages principaux : Pencroff, Harbert, Cyrus, Gédéon, Nab, Spilett. Puis dans un second temps on retrouve un autre ensemble de mots qui retracent l’univers du bouquin. 
+
 ![nuage_1.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/nuage_1.png)
 
-Dans cette visualisation des mots-clefs en image, on constate dans un premier temps que les mots les plus fréquents dans ce livre sont les noms des personnages principaux : Pencroff, Harbert, Cyrus, Gédéon, Nab, Spilett. Puis dans un second temps on retrouve un autre ensemble de mots qui retrace l’univers du bouquin. 
 
 
 
