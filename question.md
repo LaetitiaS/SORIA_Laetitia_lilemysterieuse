@@ -23,7 +23,7 @@ La numérisation des oeuvres produisent des big data ou long data laissant libre
 
 
 ## Conclusion 
-Le concept de digitalisation fait partie intégrante de notre quotidien et surtout est amené à se développer et à s’intensifier dans les prochaines années. Dans ce bouleversement numérique, les bibliothèques ( centres de documentation et archives ) vont occuper un rôle centrale ans l’utilisation des humanités digitales. 
+Le concept de digitalisation fait partie intégrante de notre quotidien et surtout est amené à se développer et à s’intensifier dans les prochaines années. Dans ce bouleversement numérique, les bibliothèques ( centres de documentation et archives ) vont occuper un rôle centrale dans l’utilisation des humanités digitales. 
 
 
 Références : 
