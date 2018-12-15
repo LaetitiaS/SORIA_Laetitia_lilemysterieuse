@@ -31,18 +31,19 @@ Une fois le document chargé dans Iramituq, j'ai obtenu dans "Statistique", le r
 ![zipf.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/zipf.png)
 
 Ici, on peut constater que Iramutuq a égalment crée des fichiers CSV. À savoir : 
+
 <br/> __** [total.csv] **__
  (https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/CSV/total.csv) 
 Il s'agit de toute les formes et leur effectif.
 
-<br/> __** [formes_actives.csv] **__
+__** [formes_actives.csv] **__
  (https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/CSV/formes_actives.csv)
 Il s'agit des formes actives et leur effectif.
 
-<br/> __** [formes_supplémentaires.csv] **__
+__** [formes_supplémentaires.csv] **__
  (https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/CSV/formes_suppl%C3%A9mentaires.csv) 
 
-<br/> __**hapax.csv **__
+__**hapax.csv **__
 
 Il s'agit du nombre de mots le moins utilisés dans l'oeuvre. 
 
