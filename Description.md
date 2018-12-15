@@ -76,10 +76,11 @@ Ici, j'ai réalisé l'analyse des similitudes. Pour cela j'ai compté dans un pr
 
 ![graph_simi_1.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_simi_1.png)
 
-Pour obtenir un resulats plus précis, j'ai ensuite restreint à un effectif à 150 et j'ai coché la case Communauté.
+Pour obtenir un resulats plus précis, j'ai ensuite restreint à un effectif à 150 et j'ai coché la case Communauté. En réduisant l'effectif,seule les formes dont le nombre d'occurrences dans le corpus sont supérieur au seuil de 150 seront affichées.
+
 ![graph_simi_15.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_simi_15.png)
 
-On peut aussi dans cette fonction, regrouper par Communauté et en Halo. Pour avoir quelque chose de plus intéréessant j'ai choisi de comparer encore une fois les chapitres 1 de la partie 1,2 et 3 ainsi que les chapitres 20 de la partie 1, 2 et 3. 
+On peut aussi dans cette fonction, regrouper par Communauté et en Halo. Pour avoir quelque chose de plus intéréessant, j'ai choisi de comparer encore une fois les chapitres 1 de la partie 1,2 et 3 ainsi que les chapitres 20 de la partie 1, 2 et 3. 
 
 ![graph_simi_2.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/graph_simi_2.png)
 
