@@ -31,15 +31,19 @@ Une fois le document chargé dans Iramituq, j'ai obtenu dans "Statistique", le r
 ![zipf.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/zipf.png)
 
 Ici, on peut constater que Iramutuq a égalment crée des fichiers CSV. À savoir : 
-<br/> [total.csv] (https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/CSV/total.csv) 
+<br/> __** [total.csv] **__
+ (https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/CSV/total.csv) 
 Il s'agit de toute les formes et leur effectif.
 
-<br/> [formes_actives.csv] (https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/CSV/formes_actives.csv)
+<br/> __** [formes_actives.csv] **__
+ (https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/CSV/formes_actives.csv)
 Il s'agit des formes actives et leur effectif.
 
-<br/> [formes_supplémentaires.csv] (https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/CSV/formes_suppl%C3%A9mentaires.csv) 
+<br/> __** [formes_supplémentaires.csv] **__
+ (https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/CSV/formes_suppl%C3%A9mentaires.csv) 
 
-<br/> hapax.csv 
+<br/> __**hapax.csv **__
+
 Il s'agit du nombre de mots le moins utilisés dans l'oeuvre. 
 
 #### Spécificité et AFC 
@@ -89,30 +93,4 @@ Dans cette visualisation des mots-clefs en image, on constate dans un premier te
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Pour ajouter photos 
-![le nom de l'image](mettre url de l'image)
-![zipf.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/zipf.png)
-![afcf_col.png](https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/images/afcf_col.png)
 
