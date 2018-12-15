@@ -32,18 +32,18 @@ Une fois le document chargé dans Iramituq, j'ai obtenu dans "Statistique", le r
 
 Ici, on peut constater que Iramutuq a égalment crée des fichiers CSV. À savoir : 
 
-<br/> __** [total.csv] **__
+<br/> **[total.csv]**
  (https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/CSV/total.csv) 
 Il s'agit de toute les formes et leur effectif.
 
-__** [formes_actives.csv] **__
+**[formes_actives.csv]**
  (https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/CSV/formes_actives.csv)
 Il s'agit des formes actives et leur effectif.
 
-__** [formes_supplémentaires.csv] **__
+**[formes_supplémentaires.csv]**
  (https://github.com/LaetitiaS/SORIA_Laetitia_lilemysterieuse/blob/master/CSV/formes_suppl%C3%A9mentaires.csv) 
 
-__**hapax.csv **__
+**hapax.csv**
 
 Il s'agit du nombre de mots le moins utilisés dans l'oeuvre. 
 
